@@ -1,0 +1,16 @@
+# Personal AI Assistant Dependencies
+
+# Speech Recognition
+speechrecognition==3.10.0
+
+# Text-to-Speech
+pyttsx3==2.90
+
+# Firebase Admin SDK for logging
+firebase-admin==6.2.0
+
+# Audio processing (required for speech recognition)
+PyAudio==0.2.11
+
+# Additional dependencies that might be needed
+pywin32==306; sys_platform == "win32"

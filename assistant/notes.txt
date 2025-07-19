@@ -1,0 +1,8 @@
+# Personal AI Assistant - Saved Notes
+# This file is automatically created when you save notes using voice commands
+# Format: [TIMESTAMP] Note content
+
+# Example notes (these will be replaced when you start using the assistant):
+# [2024-01-15 10:30:00] Buy groceries tomorrow
+# [2024-01-15 14:45:00] Meeting with John at 3 PM
+# [2024-01-15 16:20:00] Remember to call mom
